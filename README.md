@@ -157,7 +157,7 @@ If you would like to connect with me or discuss this project, feel free to reach
 
 * GitHub: https://github.com/5077267-creator/To-do-list.git
 * Email:5077267@mitacsc.edu.in
-* LinkedIn: https://www.linkedin.com/in/dipti-walse-a7b47b382?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* LinkedIn: https://www.linkedin.com/in/dipti-walse-a7b47b382?
 
 ## License
 
