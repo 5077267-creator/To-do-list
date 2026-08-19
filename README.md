@@ -108,19 +108,6 @@ You can also open the project using Visual Studio Code and use the Live Server e
 6. Click the **Delete** button to remove a task.
 7. Refresh the page to verify that the tasks are saved using Local Storage.
 
-## Screenshots
-
-Add screenshots of your To-Do List application here:
-
-```markdown
-![To-Do List Screenshot](path-to-your-screenshot.png)
-```
-
-Example:
-
-```markdown
-![To-Do List Screenshot](screenshot.png)
-```
 
 ## Testing
 
